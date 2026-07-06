@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIMPATIK 14</string>
+    <string name="login">Masuk</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="logout">Keluar</string>
+    <string name="dashboard">Beranda</string>
+    <string name="jadwal">Jadwal</string>
+    <string name="presensi">Presensi</string>
+    <string name="jurnal">Jurnal</string>
+    <string name="kuis">Kuis</string>
+    <string name="nilai">Nilai</string>
+    <string name="riwayat">Riwayat</string>
+    <string name="profil">Profil</string>
+    <string name="simpan">Simpan</string>
+    <string name="batal">Batal</string>
+    <string name="export_excel">Export Excel</string>
+</resources>

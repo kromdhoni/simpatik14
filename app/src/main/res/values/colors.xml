@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ypm_green">#1B8E4B</color>
+    <color name="ypm_green_dark">#006564</color>
+    <color name="ypm_green_light">#279C6C</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background">#F5F5F6</color>
+    <color name="bottom_nav">#0B0E13</color>
+</resources>

@@ -1,0 +1,61 @@
+import java.io.*;
+import android.content.pm.PackageInstaller;
+import android.app.PendingIntent;
+import android.content.Intent;
+
+// Get context
+app = android.app.ActivityThread.currentApplication();
+ctx = app.getApplicationContext();
+
+// Read APK from stdin into cache
+ByteArrayOutputStream baos = new ByteArrayOutputStream();
+byte[] buf = new byte[4096];
+int len;
+while((len = System.in.read(buf)) != -1) baos.write(buf, 0, len);
+println("Read " + baos.size() + " bytes from pipe");
+
+File tmpFile = new File(ctx.getCacheDir(), "install.apk");
+FileOutputStream fos = new FileOutputStream(tmpFile);
+fos.write(baos.toByteArray());
+fos.close();
+println("Written to: " + tmpFile.getAbsolutePath() + " len:" + tmpFile.length());
+
+// Use PackageInstaller
+pi = ctx.getPackageManager().getPackageInstaller();
+
+// Create session params with ALL install flags
+sp = new PackageInstaller.SessionParams(PackageInstaller.SessionParams.MODE_FULL_INSTALL);
+sp.setInstallReason(1);
+sp.setSize(tmpFile.length());
+
+// Create session
+try {
+    int sid = pi.createSession(sp);
+    println("Session ID: " + sid);
+    s = pi.openSession(sid);
+
+    // Write APK data
+    fis = new FileInputStream(tmpFile);
+    out = s.openWrite("base.apk", 0, tmpFile.length());
+    byte[] wbuf = new byte[65536];
+    int cnt;
+    while((cnt = fis.read(wbuf)) > 0) out.write(wbuf, 0, cnt);
+    s.fsyncWrite(out);
+    fis.close();
+
+    // Close write handle
+    out.close();
+
+    // Commit with PendingIntent (FLAG_IMMUTABLE required for SDK 33+)
+    pi = ctx.getPackageManager().getPackageInstaller();
+    intent = new Intent();
+    pend = PendingIntent.getActivity(ctx, 0, intent, PendingIntent.FLAG_IMMUTABLE);
+    s.commit(pend.getIntentSender());
+
+    println("Session committed - check notification for result");
+    s.close();
+
+} catch(e) {
+    println("Error: " + e.toString());
+    e.printStackTrace(new PrintWriter(System.out, true));
+}

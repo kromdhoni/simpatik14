@@ -1,0 +1,1713 @@
+{
+  "kelas": [
+    {
+      "id": "xi_tjkt",
+      "nama_kelas": "XI TJKT",
+      "jurusan": "TJKT",
+      "wali_kelas": ""
+    },
+    {
+      "id": "xi_tkro_1",
+      "nama_kelas": "XI TKRO 1",
+      "jurusan": "TKRO",
+      "wali_kelas": ""
+    },
+    {
+      "id": "xi_tkro_2",
+      "nama_kelas": "XI TKRO 2",
+      "jurusan": "TKRO",
+      "wali_kelas": ""
+    },
+    {
+      "id": "xi_tkro_3",
+      "nama_kelas": "XI TKRO 3",
+      "jurusan": "TKRO",
+      "wali_kelas": ""
+    },
+    {
+      "id": "xii_tjkt",
+      "nama_kelas": "XII TJKT",
+      "jurusan": "TJKT",
+      "wali_kelas": ""
+    },
+    {
+      "id": "xii_tkro_1",
+      "nama_kelas": "XII TKRO 1",
+      "jurusan": "TKRO",
+      "wali_kelas": ""
+    },
+    {
+      "id": "xii_tkro_2",
+      "nama_kelas": "XII TKRO 2",
+      "jurusan": "TKRO",
+      "wali_kelas": ""
+    },
+    {
+      "id": "xii_tkro_3",
+      "nama_kelas": "XII TKRO 3",
+      "jurusan": "TKRO",
+      "wali_kelas": ""
+    }
+  ],
+  "siswa": [
+    {
+      "id": "siswa_0001",
+      "nama": "ADINDA DWI SALSABILA",
+      "nis": "NIS00000001",
+      "kelas": "XI TJKT",
+      "no_absen": 1
+    },
+    {
+      "id": "siswa_0002",
+      "nama": "AHMAD MIQDAR ZULFIKAR",
+      "nis": "NIS00000002",
+      "kelas": "XI TJKT",
+      "no_absen": 2
+    },
+    {
+      "id": "siswa_0003",
+      "nama": "AKHMAD YULIANTO CAHYONO ADI",
+      "nis": "NIS00000003",
+      "kelas": "XI TJKT",
+      "no_absen": 3
+    },
+    {
+      "id": "siswa_0004",
+      "nama": "ARGA ALFIAN AGUSTINO",
+      "nis": "NIS00000004",
+      "kelas": "XI TJKT",
+      "no_absen": 4
+    },
+    {
+      "id": "siswa_0005",
+      "nama": "DESTA ZARQY AMALIYAH",
+      "nis": "NIS00000005",
+      "kelas": "XI TJKT",
+      "no_absen": 5
+    },
+    {
+      "id": "siswa_0006",
+      "nama": "EVAN SETIAWAN",
+      "nis": "NIS00000006",
+      "kelas": "XI TJKT",
+      "no_absen": 6
+    },
+    {
+      "id": "siswa_0007",
+      "nama": "GADIS NAZWA AINIS RACHAM",
+      "nis": "NIS00000007",
+      "kelas": "XI TJKT",
+      "no_absen": 7
+    },
+    {
+      "id": "siswa_0008",
+      "nama": "HILMI AHMAD KHOLIL",
+      "nis": "NIS00000008",
+      "kelas": "XI TJKT",
+      "no_absen": 8
+    },
+    {
+      "id": "siswa_0009",
+      "nama": "LIAN NOVIA MUSLIM",
+      "nis": "NIS00000009",
+      "kelas": "XI TJKT",
+      "no_absen": 9
+    },
+    {
+      "id": "siswa_0010",
+      "nama": "M.FITRAH UBAIDILLAH",
+      "nis": "NIS00000010",
+      "kelas": "XI TJKT",
+      "no_absen": 10
+    },
+    {
+      "id": "siswa_0011",
+      "nama": "M. SEFTYAN AUNUR ROHMAN",
+      "nis": "NIS00000011",
+      "kelas": "XI TJKT",
+      "no_absen": 11
+    },
+    {
+      "id": "siswa_0012",
+      "nama": "MUHAMMAD ZIDAN AMRULLOH",
+      "nis": "NIS00000012",
+      "kelas": "XI TJKT",
+      "no_absen": 12
+    },
+    {
+      "id": "siswa_0013",
+      "nama": "MUKHAMMAT WAHYU DWI SAPUTRA",
+      "nis": "NIS00000013",
+      "kelas": "XI TJKT",
+      "no_absen": 13
+    },
+    {
+      "id": "siswa_0014",
+      "nama": "RAKA SETIYAWAN",
+      "nis": "NIS00000014",
+      "kelas": "XI TJKT",
+      "no_absen": 14
+    },
+    {
+      "id": "siswa_0015",
+      "nama": "REHAN SEBASTIAN SALIM",
+      "nis": "NIS00000015",
+      "kelas": "XI TJKT",
+      "no_absen": 15
+    },
+    {
+      "id": "siswa_0016",
+      "nama": "REZA HIJROTUL ISLAMIYAH",
+      "nis": "NIS00000016",
+      "kelas": "XI TJKT",
+      "no_absen": 16
+    },
+    {
+      "id": "siswa_0017",
+      "nama": "ERICK RAFFISHA PUTRA PRATAMA",
+      "nis": "NIS00000017",
+      "kelas": "XI TJKT",
+      "no_absen": 17
+    },
+    {
+      "id": "siswa_0018",
+      "nama": "NATASYA VIVIANA AVIVA",
+      "nis": "NIS00000018",
+      "kelas": "XI TJKT",
+      "no_absen": 18
+    },
+    {
+      "id": "siswa_0019",
+      "nama": "ABDUL WAHAB",
+      "nis": "NIS00000019",
+      "kelas": "XI TKRO 1",
+      "no_absen": 1
+    },
+    {
+      "id": "siswa_0020",
+      "nama": "ACHMAD LUKMAN NUR AFANDI",
+      "nis": "NIS00000020",
+      "kelas": "XI TKRO 1",
+      "no_absen": 2
+    },
+    {
+      "id": "siswa_0021",
+      "nama": "ACHMAD RENNO FIRANSYAH PUTRA",
+      "nis": "NIS00000021",
+      "kelas": "XI TKRO 1",
+      "no_absen": 3
+    },
+    {
+      "id": "siswa_0022",
+      "nama": "ACHMAD RIZAL ZULIANTO",
+      "nis": "NIS00000022",
+      "kelas": "XI TKRO 1",
+      "no_absen": 4
+    },
+    {
+      "id": "siswa_0023",
+      "nama": "ADITYA SETIAWAN",
+      "nis": "NIS00000023",
+      "kelas": "XI TKRO 1",
+      "no_absen": 5
+    },
+    {
+      "id": "siswa_0024",
+      "nama": "AHCMAT MUHAJIR",
+      "nis": "NIS00000024",
+      "kelas": "XI TKRO 1",
+      "no_absen": 6
+    },
+    {
+      "id": "siswa_0025",
+      "nama": "AHMAD DIKI SANTOSO",
+      "nis": "NIS00000025",
+      "kelas": "XI TKRO 1",
+      "no_absen": 7
+    },
+    {
+      "id": "siswa_0026",
+      "nama": "AHMAD FEBIANTO AGUSTINA",
+      "nis": "NIS00000026",
+      "kelas": "XI TKRO 1",
+      "no_absen": 8
+    },
+    {
+      "id": "siswa_0027",
+      "nama": "AHMAD IBRAHIM",
+      "nis": "NIS00000027",
+      "kelas": "XI TKRO 1",
+      "no_absen": 9
+    },
+    {
+      "id": "siswa_0028",
+      "nama": "AHMAD IKMALUDIN ARSAFI",
+      "nis": "NIS00000028",
+      "kelas": "XI TKRO 1",
+      "no_absen": 10
+    },
+    {
+      "id": "siswa_0029",
+      "nama": "AHMAD RIFKI FIRMANSYAH",
+      "nis": "NIS00000029",
+      "kelas": "XI TKRO 1",
+      "no_absen": 11
+    },
+    {
+      "id": "siswa_0030",
+      "nama": "AHMAD ZENDI SAPUTRA",
+      "nis": "NIS00000030",
+      "kelas": "XI TKRO 1",
+      "no_absen": 12
+    },
+    {
+      "id": "siswa_0031",
+      "nama": "ALFAN WAHYU OCTA",
+      "nis": "NIS00000031",
+      "kelas": "XI TKRO 1",
+      "no_absen": 13
+    },
+    {
+      "id": "siswa_0032",
+      "nama": "ALFIN WAHYU OCTA",
+      "nis": "NIS00000032",
+      "kelas": "XI TKRO 1",
+      "no_absen": 14
+    },
+    {
+      "id": "siswa_0033",
+      "nama": "ALHABSI ALFIAN SUSENO",
+      "nis": "NIS00000033",
+      "kelas": "XI TKRO 1",
+      "no_absen": 15
+    },
+    {
+      "id": "siswa_0034",
+      "nama": "ALI NUR FAIZIN",
+      "nis": "NIS00000034",
+      "kelas": "XI TKRO 1",
+      "no_absen": 16
+    },
+    {
+      "id": "siswa_0035",
+      "nama": "ALIF ARDIANSYAH SAPUTRA",
+      "nis": "NIS00000035",
+      "kelas": "XI TKRO 1",
+      "no_absen": 17
+    },
+    {
+      "id": "siswa_0036",
+      "nama": "ALVIAN DWI PERMANA",
+      "nis": "NIS00000036",
+      "kelas": "XI TKRO 1",
+      "no_absen": 18
+    },
+    {
+      "id": "siswa_0037",
+      "nama": "ALVINO NAUVAL DZAKI",
+      "nis": "NIS00000037",
+      "kelas": "XI TKRO 1",
+      "no_absen": 19
+    },
+    {
+      "id": "siswa_0038",
+      "nama": "BAMBANG ARDIANSYAH PUTRA",
+      "nis": "NIS00000038",
+      "kelas": "XI TKRO 1",
+      "no_absen": 20
+    },
+    {
+      "id": "siswa_0039",
+      "nama": "BARA BAJA ANDROMEDA",
+      "nis": "NIS00000039",
+      "kelas": "XI TKRO 1",
+      "no_absen": 21
+    },
+    {
+      "id": "siswa_0040",
+      "nama": "BIMA ADE JABBARUDIN AKBAR",
+      "nis": "NIS00000040",
+      "kelas": "XI TKRO 1",
+      "no_absen": 22
+    },
+    {
+      "id": "siswa_0041",
+      "nama": "CATUR PUTRA ADI NATA",
+      "nis": "NIS00000041",
+      "kelas": "XI TKRO 1",
+      "no_absen": 23
+    },
+    {
+      "id": "siswa_0042",
+      "nama": "DIMAS ANDRIAN MAULANA PUTRA",
+      "nis": "NIS00000042",
+      "kelas": "XI TKRO 1",
+      "no_absen": 24
+    },
+    {
+      "id": "siswa_0043",
+      "nama": "DINO ANJASARI",
+      "nis": "NIS00000043",
+      "kelas": "XI TKRO 1",
+      "no_absen": 25
+    },
+    {
+      "id": "siswa_0044",
+      "nama": "DION ADIT YULIANTO",
+      "nis": "NIS00000044",
+      "kelas": "XI TKRO 1",
+      "no_absen": 26
+    },
+    {
+      "id": "siswa_0045",
+      "nama": "DYGTO FAUSTA YUDHISTIRA",
+      "nis": "NIS00000045",
+      "kelas": "XI TKRO 1",
+      "no_absen": 27
+    },
+    {
+      "id": "siswa_0046",
+      "nama": "FAHRI ADITYA PUTRA PRATAMA",
+      "nis": "NIS00000046",
+      "kelas": "XI TKRO 1",
+      "no_absen": 28
+    },
+    {
+      "id": "siswa_0047",
+      "nama": "FAISAL IBRAHIM",
+      "nis": "NIS00000047",
+      "kelas": "XI TKRO 1",
+      "no_absen": 29
+    },
+    {
+      "id": "siswa_0048",
+      "nama": "FAIZUL ANWAR ALGIFARI",
+      "nis": "NIS00000048",
+      "kelas": "XI TKRO 1",
+      "no_absen": 30
+    },
+    {
+      "id": "siswa_0049",
+      "nama": "FAJAR DWIE FEBRIANTOH",
+      "nis": "NIS00000049",
+      "kelas": "XI TKRO 1",
+      "no_absen": 31
+    },
+    {
+      "id": "siswa_0050",
+      "nama": "MUHAMMAD HANAFI SETIAWA",
+      "nis": "NIS00000050",
+      "kelas": "XI TKRO 1",
+      "no_absen": 32
+    },
+    {
+      "id": "siswa_0051",
+      "nama": "OVINO ANDRA PUTRA",
+      "nis": "NIS00000051",
+      "kelas": "XI TKRO 1",
+      "no_absen": 33
+    },
+    {
+      "id": "siswa_0052",
+      "nama": "FARHAN HIDAYATULLOH RAMADHAN",
+      "nis": "NIS00000052",
+      "kelas": "XI TKRO 2",
+      "no_absen": 1
+    },
+    {
+      "id": "siswa_0053",
+      "nama": "FERI DWI ALDI",
+      "nis": "NIS00000053",
+      "kelas": "XI TKRO 2",
+      "no_absen": 2
+    },
+    {
+      "id": "siswa_0054",
+      "nama": "FERNANDA HANSYARAJ",
+      "nis": "NIS00000054",
+      "kelas": "XI TKRO 2",
+      "no_absen": 3
+    },
+    {
+      "id": "siswa_0055",
+      "nama": "GANNI TAKBIRON FIRSATULLOH",
+      "nis": "NIS00000055",
+      "kelas": "XI TKRO 2",
+      "no_absen": 4
+    },
+    {
+      "id": "siswa_0056",
+      "nama": "HAFID DARMA MAULANA",
+      "nis": "NIS00000056",
+      "kelas": "XI TKRO 2",
+      "no_absen": 5
+    },
+    {
+      "id": "siswa_0057",
+      "nama": "HAFIZ LAROOYBAVI PASA",
+      "nis": "NIS00000057",
+      "kelas": "XI TKRO 2",
+      "no_absen": 6
+    },
+    {
+      "id": "siswa_0058",
+      "nama": "HERI DWI PRASETIO",
+      "nis": "NIS00000058",
+      "kelas": "XI TKRO 2",
+      "no_absen": 7
+    },
+    {
+      "id": "siswa_0059",
+      "nama": "IMAM ARROYYAN",
+      "nis": "NIS00000059",
+      "kelas": "XI TKRO 2",
+      "no_absen": 8
+    },
+    {
+      "id": "siswa_0060",
+      "nama": "IQBAL DWI JULIANTO",
+      "nis": "NIS00000060",
+      "kelas": "XI TKRO 2",
+      "no_absen": 9
+    },
+    {
+      "id": "siswa_0061",
+      "nama": "ISYROQI RAMADHANI",
+      "nis": "NIS00000061",
+      "kelas": "XI TKRO 2",
+      "no_absen": 10
+    },
+    {
+      "id": "siswa_0062",
+      "nama": "KUS DWI JUNEADI ROHITS WAHYUDI",
+      "nis": "NIS00000062",
+      "kelas": "XI TKRO 2",
+      "no_absen": 11
+    },
+    {
+      "id": "siswa_0063",
+      "nama": "LUTFI FIQHAN FIDDIN",
+      "nis": "NIS00000063",
+      "kelas": "XI TKRO 2",
+      "no_absen": 12
+    },
+    {
+      "id": "siswa_0064",
+      "nama": "LUTFI HERIANTO",
+      "nis": "NIS00000064",
+      "kelas": "XI TKRO 2",
+      "no_absen": 13
+    },
+    {
+      "id": "siswa_0065",
+      "nama": "M. ALIF ROMANSYAH AL FARUQ",
+      "nis": "NIS00000065",
+      "kelas": "XI TKRO 2",
+      "no_absen": 14
+    },
+    {
+      "id": "siswa_0066",
+      "nama": "M. ARIEL SUNANDRI",
+      "nis": "NIS00000066",
+      "kelas": "XI TKRO 2",
+      "no_absen": 15
+    },
+    {
+      "id": "siswa_0067",
+      "nama": "M. NASRIL HUDA",
+      "nis": "NIS00000067",
+      "kelas": "XI TKRO 2",
+      "no_absen": 16
+    },
+    {
+      "id": "siswa_0068",
+      "nama": "M. PRAZ ARGANA",
+      "nis": "NIS00000068",
+      "kelas": "XI TKRO 2",
+      "no_absen": 17
+    },
+    {
+      "id": "siswa_0069",
+      "nama": "M. RAJA ALI AZIZ",
+      "nis": "NIS00000069",
+      "kelas": "XI TKRO 2",
+      "no_absen": 18
+    },
+    {
+      "id": "siswa_0070",
+      "nama": "M. RANGGA HIDAYAH RAMADHANI",
+      "nis": "NIS00000070",
+      "kelas": "XI TKRO 2",
+      "no_absen": 19
+    },
+    {
+      "id": "siswa_0071",
+      "nama": "M. RISKI MAULANA PUTRA",
+      "nis": "NIS00000071",
+      "kelas": "XI TKRO 2",
+      "no_absen": 20
+    },
+    {
+      "id": "siswa_0072",
+      "nama": "M. SHOBIB AS SYAFA",
+      "nis": "NIS00000072",
+      "kelas": "XI TKRO 2",
+      "no_absen": 21
+    },
+    {
+      "id": "siswa_0073",
+      "nama": "MIFTAKHUR ROZAK",
+      "nis": "NIS00000073",
+      "kelas": "XI TKRO 2",
+      "no_absen": 22
+    },
+    {
+      "id": "siswa_0074",
+      "nama": "MISBAHRUL ULUM",
+      "nis": "NIS00000074",
+      "kelas": "XI TKRO 2",
+      "no_absen": 23
+    },
+    {
+      "id": "siswa_0075",
+      "nama": "MOCHAMAD NAZRIL ARIYA BIMA",
+      "nis": "NIS00000075",
+      "kelas": "XI TKRO 2",
+      "no_absen": 24
+    },
+    {
+      "id": "siswa_0076",
+      "nama": "MOHAMMAD AKBAR A",
+      "nis": "NIS00000076",
+      "kelas": "XI TKRO 2",
+      "no_absen": 25
+    },
+    {
+      "id": "siswa_0077",
+      "nama": "MOHAMMAD IRFANSYAH",
+      "nis": "NIS00000077",
+      "kelas": "XI TKRO 2",
+      "no_absen": 26
+    },
+    {
+      "id": "siswa_0078",
+      "nama": "MUCHAMMAD DEDIK KURNIAWAN",
+      "nis": "NIS00000078",
+      "kelas": "XI TKRO 2",
+      "no_absen": 27
+    },
+    {
+      "id": "siswa_0079",
+      "nama": "MUCHAMMAD REYHAN ARDIANSYAH",
+      "nis": "NIS00000079",
+      "kelas": "XI TKRO 2",
+      "no_absen": 28
+    },
+    {
+      "id": "siswa_0080",
+      "nama": "MUHAMAD ARIF ARDIANSYAH",
+      "nis": "NIS00000080",
+      "kelas": "XI TKRO 2",
+      "no_absen": 29
+    },
+    {
+      "id": "siswa_0081",
+      "nama": "MUHAMMAD ADBUL RASYID",
+      "nis": "NIS00000081",
+      "kelas": "XI TKRO 2",
+      "no_absen": 30
+    },
+    {
+      "id": "siswa_0082",
+      "nama": "MUHAMMAD ADITYA SAPUTRA",
+      "nis": "NIS00000082",
+      "kelas": "XI TKRO 2",
+      "no_absen": 31
+    },
+    {
+      "id": "siswa_0083",
+      "nama": "RAHMAT RAMADHAN",
+      "nis": "NIS00000083",
+      "kelas": "XI TKRO 2",
+      "no_absen": 32
+    },
+    {
+      "id": "siswa_0084",
+      "nama": "MUHAMMAD GALIH NAUFALHUDIN",
+      "nis": "NIS00000084",
+      "kelas": "XI TKRO 2",
+      "no_absen": 33
+    },
+    {
+      "id": "siswa_0085",
+      "nama": "ACHMAD BIHAQI",
+      "nis": "NIS00000085",
+      "kelas": "XI TKRO 3",
+      "no_absen": 1
+    },
+    {
+      "id": "siswa_0086",
+      "nama": "AGYES ZULVIAR",
+      "nis": "NIS00000086",
+      "kelas": "XI TKRO 3",
+      "no_absen": 2
+    },
+    {
+      "id": "siswa_0087",
+      "nama": "FABIAN REZAN NAXEL",
+      "nis": "NIS00000087",
+      "kelas": "XI TKRO 3",
+      "no_absen": 3
+    },
+    {
+      "id": "siswa_0088",
+      "nama": "GABRIELLE ROMANS PUTRA WIBOWO",
+      "nis": "NIS00000088",
+      "kelas": "XI TKRO 3",
+      "no_absen": 4
+    },
+    {
+      "id": "siswa_0089",
+      "nama": "M. YUSUF IDUL ADHA",
+      "nis": "NIS00000089",
+      "kelas": "XI TKRO 3",
+      "no_absen": 5
+    },
+    {
+      "id": "siswa_0090",
+      "nama": "MUHAMMAD CHOIRI",
+      "nis": "NIS00000090",
+      "kelas": "XI TKRO 3",
+      "no_absen": 6
+    },
+    {
+      "id": "siswa_0091",
+      "nama": "MUHAMMAD DUTA SETIAWAN",
+      "nis": "NIS00000091",
+      "kelas": "XI TKRO 3",
+      "no_absen": 7
+    },
+    {
+      "id": "siswa_0092",
+      "nama": "MUHAMMAD HAFIAN KHAMLUL FAQIH",
+      "nis": "NIS00000092",
+      "kelas": "XI TKRO 3",
+      "no_absen": 8
+    },
+    {
+      "id": "siswa_0093",
+      "nama": "MUHAMMAD MAULANA ZAKARIA",
+      "nis": "NIS00000093",
+      "kelas": "XI TKRO 3",
+      "no_absen": 9
+    },
+    {
+      "id": "siswa_0094",
+      "nama": "MUHAMMAD NUZULUL RAHMADHANI",
+      "nis": "NIS00000094",
+      "kelas": "XI TKRO 3",
+      "no_absen": 10
+    },
+    {
+      "id": "siswa_0095",
+      "nama": "MUHAMMAD RAJIB",
+      "nis": "NIS00000095",
+      "kelas": "XI TKRO 3",
+      "no_absen": 11
+    },
+    {
+      "id": "siswa_0096",
+      "nama": "MUHAMMAD RIFKI HISAM",
+      "nis": "NIS00000096",
+      "kelas": "XI TKRO 3",
+      "no_absen": 12
+    },
+    {
+      "id": "siswa_0097",
+      "nama": "MUHAMMAD RIZKI",
+      "nis": "NIS00000097",
+      "kelas": "XI TKRO 3",
+      "no_absen": 13
+    },
+    {
+      "id": "siswa_0098",
+      "nama": "MUHAMMAD SYAFAAT RAMADHAN",
+      "nis": "NIS00000098",
+      "kelas": "XI TKRO 3",
+      "no_absen": 14
+    },
+    {
+      "id": "siswa_0099",
+      "nama": "NICOLAS SAPUTRA",
+      "nis": "NIS00000099",
+      "kelas": "XI TKRO 3",
+      "no_absen": 15
+    },
+    {
+      "id": "siswa_0100",
+      "nama": "NOVAN PANDYA PRATAMA",
+      "nis": "NIS00000100",
+      "kelas": "XI TKRO 3",
+      "no_absen": 16
+    },
+    {
+      "id": "siswa_0101",
+      "nama": "NUR FAIZIN PUTRA ARDITA MUCHSIN",
+      "nis": "NIS00000101",
+      "kelas": "XI TKRO 3",
+      "no_absen": 17
+    },
+    {
+      "id": "siswa_0102",
+      "nama": "PRAKASYA WAHYU PRATAMA",
+      "nis": "NIS00000102",
+      "kelas": "XI TKRO 3",
+      "no_absen": 18
+    },
+    {
+      "id": "siswa_0103",
+      "nama": "RADHO TRIANTANA",
+      "nis": "NIS00000103",
+      "kelas": "XI TKRO 3",
+      "no_absen": 19
+    },
+    {
+      "id": "siswa_0104",
+      "nama": "RADIT ARDIANSYAH",
+      "nis": "NIS00000104",
+      "kelas": "XI TKRO 3",
+      "no_absen": 20
+    },
+    {
+      "id": "siswa_0105",
+      "nama": "RADITYA GALIH PRATAMA",
+      "nis": "NIS00000105",
+      "kelas": "XI TKRO 3",
+      "no_absen": 21
+    },
+    {
+      "id": "siswa_0106",
+      "nama": "RADITYA YUGA PRATAMA",
+      "nis": "NIS00000106",
+      "kelas": "XI TKRO 3",
+      "no_absen": 22
+    },
+    {
+      "id": "siswa_0107",
+      "nama": "RAFA ARDIANYAH",
+      "nis": "NIS00000107",
+      "kelas": "XI TKRO 3",
+      "no_absen": 23
+    },
+    {
+      "id": "siswa_0108",
+      "nama": "RAFAEL RANDIKA RAFANDI PUTRA",
+      "nis": "NIS00000108",
+      "kelas": "XI TKRO 3",
+      "no_absen": 24
+    },
+    {
+      "id": "siswa_0109",
+      "nama": "RAFI DWI ANDHIKA",
+      "nis": "NIS00000109",
+      "kelas": "XI TKRO 3",
+      "no_absen": 25
+    },
+    {
+      "id": "siswa_0110",
+      "nama": "RANGGA ALFITO",
+      "nis": "NIS00000110",
+      "kelas": "XI TKRO 3",
+      "no_absen": 26
+    },
+    {
+      "id": "siswa_0111",
+      "nama": "REHAN ADI DEWANGGA PRANATA",
+      "nis": "NIS00000111",
+      "kelas": "XI TKRO 3",
+      "no_absen": 27
+    },
+    {
+      "id": "siswa_0112",
+      "nama": "RIZAL FATKHUR ROKHMAN",
+      "nis": "NIS00000112",
+      "kelas": "XI TKRO 3",
+      "no_absen": 28
+    },
+    {
+      "id": "siswa_0113",
+      "nama": "ROHMAT RISKI SUGIARTO",
+      "nis": "NIS00000113",
+      "kelas": "XI TKRO 3",
+      "no_absen": 29
+    },
+    {
+      "id": "siswa_0114",
+      "nama": "SYAM SURYA ADI ERLINGO",
+      "nis": "NIS00000114",
+      "kelas": "XI TKRO 3",
+      "no_absen": 30
+    },
+    {
+      "id": "siswa_0115",
+      "nama": "TAUFIK BASTIAN",
+      "nis": "NIS00000115",
+      "kelas": "XI TKRO 3",
+      "no_absen": 31
+    },
+    {
+      "id": "siswa_0116",
+      "nama": "ZUAN WISNU WARDANA",
+      "nis": "NIS00000116",
+      "kelas": "XI TKRO 3",
+      "no_absen": 32
+    },
+    {
+      "id": "siswa_0117",
+      "nama": "ABDUL ROZAK",
+      "nis": "NIS00000117",
+      "kelas": "XII TJKT",
+      "no_absen": 1
+    },
+    {
+      "id": "siswa_0118",
+      "nama": "ABU ROFFI DAFA RAMADHANI",
+      "nis": "NIS00000118",
+      "kelas": "XII TJKT",
+      "no_absen": 2
+    },
+    {
+      "id": "siswa_0119",
+      "nama": "ADITIYA PUTRA PRATAMA",
+      "nis": "NIS00000119",
+      "kelas": "XII TJKT",
+      "no_absen": 3
+    },
+    {
+      "id": "siswa_0120",
+      "nama": "AGUS STYO BUDI",
+      "nis": "NIS00000120",
+      "kelas": "XII TJKT",
+      "no_absen": 4
+    },
+    {
+      "id": "siswa_0121",
+      "nama": "AKBAR HAVID RAMADHAN",
+      "nis": "NIS00000121",
+      "kelas": "XII TJKT",
+      "no_absen": 5
+    },
+    {
+      "id": "siswa_0122",
+      "nama": "ANDIN PUTRI AGNESIA R",
+      "nis": "NIS00000122",
+      "kelas": "XII TJKT",
+      "no_absen": 6
+    },
+    {
+      "id": "siswa_0123",
+      "nama": "ARINA ALVA RAHMATIKA",
+      "nis": "NIS00000123",
+      "kelas": "XII TJKT",
+      "no_absen": 7
+    },
+    {
+      "id": "siswa_0124",
+      "nama": "ARISTA ANA PUTRI",
+      "nis": "NIS00000124",
+      "kelas": "XII TJKT",
+      "no_absen": 8
+    },
+    {
+      "id": "siswa_0125",
+      "nama": "AYU NOVIYANTI",
+      "nis": "NIS00000125",
+      "kelas": "XII TJKT",
+      "no_absen": 9
+    },
+    {
+      "id": "siswa_0126",
+      "nama": "DANYS ASPRIYANINGSIH",
+      "nis": "NIS00000126",
+      "kelas": "XII TJKT",
+      "no_absen": 10
+    },
+    {
+      "id": "siswa_0127",
+      "nama": "DIMAS KUSUMA PUTRA",
+      "nis": "NIS00000127",
+      "kelas": "XII TJKT",
+      "no_absen": 11
+    },
+    {
+      "id": "siswa_0128",
+      "nama": "FABIAN PUTRA PRATAMA",
+      "nis": "NIS00000128",
+      "kelas": "XII TJKT",
+      "no_absen": 12
+    },
+    {
+      "id": "siswa_0129",
+      "nama": "FANDIEGO ARVA AL AKBAR",
+      "nis": "NIS00000129",
+      "kelas": "XII TJKT",
+      "no_absen": 13
+    },
+    {
+      "id": "siswa_0130",
+      "nama": "FIRA DEWI LASMANA",
+      "nis": "NIS00000130",
+      "kelas": "XII TJKT",
+      "no_absen": 14
+    },
+    {
+      "id": "siswa_0131",
+      "nama": "GALOH HUSONO ADI",
+      "nis": "NIS00000131",
+      "kelas": "XII TJKT",
+      "no_absen": 15
+    },
+    {
+      "id": "siswa_0132",
+      "nama": "HILMI YAHYA ABADI",
+      "nis": "NIS00000132",
+      "kelas": "XII TJKT",
+      "no_absen": 16
+    },
+    {
+      "id": "siswa_0133",
+      "nama": "INTAN NUR AINI",
+      "nis": "NIS00000133",
+      "kelas": "XII TJKT",
+      "no_absen": 17
+    },
+    {
+      "id": "siswa_0134",
+      "nama": "MUHAMMAD AINUL MUZAKI",
+      "nis": "NIS00000134",
+      "kelas": "XII TJKT",
+      "no_absen": 18
+    },
+    {
+      "id": "siswa_0135",
+      "nama": "MUHAMMAD AKBAR SAMPURNO",
+      "nis": "NIS00000135",
+      "kelas": "XII TJKT",
+      "no_absen": 19
+    },
+    {
+      "id": "siswa_0136",
+      "nama": "MUHAMMAD ANDIKA PRATAMA",
+      "nis": "NIS00000136",
+      "kelas": "XII TJKT",
+      "no_absen": 20
+    },
+    {
+      "id": "siswa_0137",
+      "nama": "MUHAMMAD DAVA RAHMA AULIA",
+      "nis": "NIS00000137",
+      "kelas": "XII TJKT",
+      "no_absen": 21
+    },
+    {
+      "id": "siswa_0138",
+      "nama": "MUHAMMAD HAFID FAIKHI",
+      "nis": "NIS00000138",
+      "kelas": "XII TJKT",
+      "no_absen": 22
+    },
+    {
+      "id": "siswa_0139",
+      "nama": "PUTRI AYU WULANDHARI",
+      "nis": "NIS00000139",
+      "kelas": "XII TJKT",
+      "no_absen": 23
+    },
+    {
+      "id": "siswa_0140",
+      "nama": "PUTRI NAJWA SALSABILA",
+      "nis": "NIS00000140",
+      "kelas": "XII TJKT",
+      "no_absen": 24
+    },
+    {
+      "id": "siswa_0141",
+      "nama": "PUTRI NUR HAYATI",
+      "nis": "NIS00000141",
+      "kelas": "XII TJKT",
+      "no_absen": 25
+    },
+    {
+      "id": "siswa_0142",
+      "nama": "REGA ARDIAS ARDIANTO",
+      "nis": "NIS00000142",
+      "kelas": "XII TJKT",
+      "no_absen": 26
+    },
+    {
+      "id": "siswa_0143",
+      "nama": "RENATA DWI FEBRI HAPSARI",
+      "nis": "NIS00000143",
+      "kelas": "XII TJKT",
+      "no_absen": 27
+    },
+    {
+      "id": "siswa_0144",
+      "nama": "RENDI PUJI JULIANINGSIH",
+      "nis": "NIS00000144",
+      "kelas": "XII TJKT",
+      "no_absen": 28
+    },
+    {
+      "id": "siswa_0145",
+      "nama": "RENDY EKA ADITYA",
+      "nis": "NIS00000145",
+      "kelas": "XII TJKT",
+      "no_absen": 29
+    },
+    {
+      "id": "siswa_0146",
+      "nama": "RISMA RAMADHANI",
+      "nis": "NIS00000146",
+      "kelas": "XII TJKT",
+      "no_absen": 30
+    },
+    {
+      "id": "siswa_0147",
+      "nama": "SAFIRA PUTRI CAHYA NINGRUM",
+      "nis": "NIS00000147",
+      "kelas": "XII TJKT",
+      "no_absen": 31
+    },
+    {
+      "id": "siswa_0148",
+      "nama": "TONI FERDIYANSAH",
+      "nis": "NIS00000148",
+      "kelas": "XII TJKT",
+      "no_absen": 32
+    },
+    {
+      "id": "siswa_0149",
+      "nama": "WIWIT AURA SAGITA",
+      "nis": "NIS00000149",
+      "kelas": "XII TJKT",
+      "no_absen": 33
+    },
+    {
+      "id": "siswa_0150",
+      "nama": "ZAHROTHUSSYTA RAHMAWATI",
+      "nis": "NIS00000150",
+      "kelas": "XII TJKT",
+      "no_absen": 34
+    },
+    {
+      "id": "siswa_0151",
+      "nama": "WAHYU AGUNG SANTOSO",
+      "nis": "NIS00000151",
+      "kelas": "XII TJKT",
+      "no_absen": 35
+    },
+    {
+      "id": "siswa_0152",
+      "nama": "AFIFUDIN FIHZA PRIYANTO",
+      "nis": "NIS00000152",
+      "kelas": "XII TKRO 1",
+      "no_absen": 1
+    },
+    {
+      "id": "siswa_0153",
+      "nama": "AHMAD FAHRI NUR ILHAM",
+      "nis": "NIS00000153",
+      "kelas": "XII TKRO 1",
+      "no_absen": 2
+    },
+    {
+      "id": "siswa_0154",
+      "nama": "AHMAD HAFIDL AL-JAMIL",
+      "nis": "NIS00000154",
+      "kelas": "XII TKRO 1",
+      "no_absen": 3
+    },
+    {
+      "id": "siswa_0155",
+      "nama": "AHMAD JUAN ALIEFFIRANO",
+      "nis": "NIS00000155",
+      "kelas": "XII TKRO 1",
+      "no_absen": 4
+    },
+    {
+      "id": "siswa_0156",
+      "nama": "AHMAD ZIDAN AL FAIS",
+      "nis": "NIS00000156",
+      "kelas": "XII TKRO 1",
+      "no_absen": 5
+    },
+    {
+      "id": "siswa_0157",
+      "nama": "AL HADI SUSANTO",
+      "nis": "NIS00000157",
+      "kelas": "XII TKRO 1",
+      "no_absen": 6
+    },
+    {
+      "id": "siswa_0158",
+      "nama": "ALIEF MUHAMMAD IBRAHIM",
+      "nis": "NIS00000158",
+      "kelas": "XII TKRO 1",
+      "no_absen": 7
+    },
+    {
+      "id": "siswa_0159",
+      "nama": "ANAS RUDIN ABDULLOH",
+      "nis": "NIS00000159",
+      "kelas": "XII TKRO 1",
+      "no_absen": 8
+    },
+    {
+      "id": "siswa_0160",
+      "nama": "ANDIKA PUTRA PRASTIYA",
+      "nis": "NIS00000160",
+      "kelas": "XII TKRO 1",
+      "no_absen": 9
+    },
+    {
+      "id": "siswa_0161",
+      "nama": "ARGA MAHESA PERATAMA",
+      "nis": "NIS00000161",
+      "kelas": "XII TKRO 1",
+      "no_absen": 10
+    },
+    {
+      "id": "siswa_0162",
+      "nama": "ARMAN BAGUS PUTRA",
+      "nis": "NIS00000162",
+      "kelas": "XII TKRO 1",
+      "no_absen": 11
+    },
+    {
+      "id": "siswa_0163",
+      "nama": "ARVAL ANDI FIRMANSYAH",
+      "nis": "NIS00000163",
+      "kelas": "XII TKRO 1",
+      "no_absen": 12
+    },
+    {
+      "id": "siswa_0164",
+      "nama": "ARVAN AGUSTINO SEPTIYANTO",
+      "nis": "NIS00000164",
+      "kelas": "XII TKRO 1",
+      "no_absen": 13
+    },
+    {
+      "id": "siswa_0165",
+      "nama": "AZIZ REHAN YOGA PRATAMA",
+      "nis": "NIS00000165",
+      "kelas": "XII TKRO 1",
+      "no_absen": 14
+    },
+    {
+      "id": "siswa_0166",
+      "nama": "BAGUS BUDI ARDIYAN SAH",
+      "nis": "NIS00000166",
+      "kelas": "XII TKRO 1",
+      "no_absen": 15
+    },
+    {
+      "id": "siswa_0167",
+      "nama": "BAYU AJI KUSUMA",
+      "nis": "NIS00000167",
+      "kelas": "XII TKRO 1",
+      "no_absen": 16
+    },
+    {
+      "id": "siswa_0168",
+      "nama": "BIMO ZEKY HERMAWAN",
+      "nis": "NIS00000168",
+      "kelas": "XII TKRO 1",
+      "no_absen": 17
+    },
+    {
+      "id": "siswa_0169",
+      "nama": "DAFIN BARA ADITIYA",
+      "nis": "NIS00000169",
+      "kelas": "XII TKRO 1",
+      "no_absen": 18
+    },
+    {
+      "id": "siswa_0170",
+      "nama": "DAVA ARISKA PRATAMA",
+      "nis": "NIS00000170",
+      "kelas": "XII TKRO 1",
+      "no_absen": 19
+    },
+    {
+      "id": "siswa_0171",
+      "nama": "DENNISA HAFIZ PRATAMA",
+      "nis": "NIS00000171",
+      "kelas": "XII TKRO 1",
+      "no_absen": 20
+    },
+    {
+      "id": "siswa_0172",
+      "nama": "DINDA RIKO ADI SAPUTRA",
+      "nis": "NIS00000172",
+      "kelas": "XII TKRO 1",
+      "no_absen": 21
+    },
+    {
+      "id": "siswa_0173",
+      "nama": "DWI HERU PRASETIYO",
+      "nis": "NIS00000173",
+      "kelas": "XII TKRO 1",
+      "no_absen": 22
+    },
+    {
+      "id": "siswa_0174",
+      "nama": "DWI RAHMAT ISWANDIONO",
+      "nis": "NIS00000174",
+      "kelas": "XII TKRO 1",
+      "no_absen": 23
+    },
+    {
+      "id": "siswa_0175",
+      "nama": "DZIDANE MAULANA",
+      "nis": "NIS00000175",
+      "kelas": "XII TKRO 1",
+      "no_absen": 24
+    },
+    {
+      "id": "siswa_0176",
+      "nama": "EDHO ANDIKA PUTRA",
+      "nis": "NIS00000176",
+      "kelas": "XII TKRO 1",
+      "no_absen": 25
+    },
+    {
+      "id": "siswa_0177",
+      "nama": "IDFAN ASRIL RIDWANSYAH",
+      "nis": "NIS00000177",
+      "kelas": "XII TKRO 1",
+      "no_absen": 26
+    },
+    {
+      "id": "siswa_0178",
+      "nama": "M. RIZKY YOHGANES JUNIVIO S",
+      "nis": "NIS00000178",
+      "kelas": "XII TKRO 1",
+      "no_absen": 27
+    },
+    {
+      "id": "siswa_0179",
+      "nama": "MUHAMMAD ADITYA PRATAMA",
+      "nis": "NIS00000179",
+      "kelas": "XII TKRO 1",
+      "no_absen": 28
+    },
+    {
+      "id": "siswa_0180",
+      "nama": "MUHAMMAD ALI IRFAN",
+      "nis": "NIS00000180",
+      "kelas": "XII TKRO 1",
+      "no_absen": 29
+    },
+    {
+      "id": "siswa_0181",
+      "nama": "FABIAN DAFA ARBIANSYAH",
+      "nis": "NIS00000181",
+      "kelas": "XII TKRO 2",
+      "no_absen": 1
+    },
+    {
+      "id": "siswa_0182",
+      "nama": "FAREL ADI ADHA",
+      "nis": "NIS00000182",
+      "kelas": "XII TKRO 2",
+      "no_absen": 2
+    },
+    {
+      "id": "siswa_0183",
+      "nama": "FARREL ABHIPRAYA PUTRA A",
+      "nis": "NIS00000183",
+      "kelas": "XII TKRO 2",
+      "no_absen": 3
+    },
+    {
+      "id": "siswa_0184",
+      "nama": "GALIH WAHYU ARDIANSYAH",
+      "nis": "NIS00000184",
+      "kelas": "XII TKRO 2",
+      "no_absen": 4
+    },
+    {
+      "id": "siswa_0185",
+      "nama": "IMAM SHOFRIAJI",
+      "nis": "NIS00000185",
+      "kelas": "XII TKRO 2",
+      "no_absen": 5
+    },
+    {
+      "id": "siswa_0186",
+      "nama": "IMAM SYAFI'I",
+      "nis": "NIS00000186",
+      "kelas": "XII TKRO 2",
+      "no_absen": 6
+    },
+    {
+      "id": "siswa_0187",
+      "nama": "IQBAL NUR RIDHO",
+      "nis": "NIS00000187",
+      "kelas": "XII TKRO 2",
+      "no_absen": 7
+    },
+    {
+      "id": "siswa_0188",
+      "nama": "KAMIS ABI BIANTORO",
+      "nis": "NIS00000188",
+      "kelas": "XII TKRO 2",
+      "no_absen": 8
+    },
+    {
+      "id": "siswa_0189",
+      "nama": "LOUIS PUTRA PRAMESWARA",
+      "nis": "NIS00000189",
+      "kelas": "XII TKRO 2",
+      "no_absen": 9
+    },
+    {
+      "id": "siswa_0190",
+      "nama": "M GILANG ADI SAUMA",
+      "nis": "NIS00000190",
+      "kelas": "XII TKRO 2",
+      "no_absen": 10
+    },
+    {
+      "id": "siswa_0191",
+      "nama": "M. AKBAR RAMADANI",
+      "nis": "NIS00000191",
+      "kelas": "XII TKRO 2",
+      "no_absen": 11
+    },
+    {
+      "id": "siswa_0192",
+      "nama": "M. GUNTUR BAWONO",
+      "nis": "NIS00000192",
+      "kelas": "XII TKRO 2",
+      "no_absen": 12
+    },
+    {
+      "id": "siswa_0193",
+      "nama": "M. NANDA RAMADANI",
+      "nis": "NIS00000193",
+      "kelas": "XII TKRO 2",
+      "no_absen": 13
+    },
+    {
+      "id": "siswa_0194",
+      "nama": "M. RIVALDO PRASTIYO BUDI",
+      "nis": "NIS00000194",
+      "kelas": "XII TKRO 2",
+      "no_absen": 14
+    },
+    {
+      "id": "siswa_0195",
+      "nama": "M. ZUDHA PRATAMA P",
+      "nis": "NIS00000195",
+      "kelas": "XII TKRO 2",
+      "no_absen": 15
+    },
+    {
+      "id": "siswa_0196",
+      "nama": "M.FAHRI NUR CAHYO",
+      "nis": "NIS00000196",
+      "kelas": "XII TKRO 2",
+      "no_absen": 16
+    },
+    {
+      "id": "siswa_0197",
+      "nama": "M.NABIL RASYAD W",
+      "nis": "NIS00000197",
+      "kelas": "XII TKRO 2",
+      "no_absen": 17
+    },
+    {
+      "id": "siswa_0198",
+      "nama": "M.RHAVA DANESKIE",
+      "nis": "NIS00000198",
+      "kelas": "XII TKRO 2",
+      "no_absen": 18
+    },
+    {
+      "id": "siswa_0199",
+      "nama": "M.SYAFIQ AL AR ZAQI",
+      "nis": "NIS00000199",
+      "kelas": "XII TKRO 2",
+      "no_absen": 19
+    },
+    {
+      "id": "siswa_0200",
+      "nama": "M.SYIFA UL KHULUQ",
+      "nis": "NIS00000200",
+      "kelas": "XII TKRO 2",
+      "no_absen": 20
+    },
+    {
+      "id": "siswa_0201",
+      "nama": "MOCH.BASHIR",
+      "nis": "NIS00000201",
+      "kelas": "XII TKRO 2",
+      "no_absen": 21
+    },
+    {
+      "id": "siswa_0202",
+      "nama": "MOCHAMAD AGUNG LASTIYO",
+      "nis": "NIS00000202",
+      "kelas": "XII TKRO 2",
+      "no_absen": 22
+    },
+    {
+      "id": "siswa_0203",
+      "nama": "MOCHAMAD DIMAS FATHUR R",
+      "nis": "NIS00000203",
+      "kelas": "XII TKRO 2",
+      "no_absen": 23
+    },
+    {
+      "id": "siswa_0204",
+      "nama": "MOCHAMAD FAUZAN MANYILA",
+      "nis": "NIS00000204",
+      "kelas": "XII TKRO 2",
+      "no_absen": 24
+    },
+    {
+      "id": "siswa_0205",
+      "nama": "MUCHAMAD DAVA PERDANA",
+      "nis": "NIS00000205",
+      "kelas": "XII TKRO 2",
+      "no_absen": 25
+    },
+    {
+      "id": "siswa_0206",
+      "nama": "MUHAMAD ADAM SETIAWAN",
+      "nis": "NIS00000206",
+      "kelas": "XII TKRO 2",
+      "no_absen": 26
+    },
+    {
+      "id": "siswa_0207",
+      "nama": "MUHAMMAD RAFFI CAHYO S",
+      "nis": "NIS00000207",
+      "kelas": "XII TKRO 2",
+      "no_absen": 27
+    },
+    {
+      "id": "siswa_0208",
+      "nama": "MUHAMMAD RIKO SAPUTRO",
+      "nis": "NIS00000208",
+      "kelas": "XII TKRO 2",
+      "no_absen": 28
+    },
+    {
+      "id": "siswa_0209",
+      "nama": "YOGI ARINGGAH PUTRA",
+      "nis": "NIS00000209",
+      "kelas": "XII TKRO 2",
+      "no_absen": 29
+    },
+    {
+      "id": "siswa_0210",
+      "nama": "GALANG ARYA PUTRA",
+      "nis": "NIS00000210",
+      "kelas": "XII TKRO 3",
+      "no_absen": 1
+    },
+    {
+      "id": "siswa_0211",
+      "nama": "M. CALVIN DWI ALDIANSYAH",
+      "nis": "NIS00000211",
+      "kelas": "XII TKRO 3",
+      "no_absen": 2
+    },
+    {
+      "id": "siswa_0212",
+      "nama": "M. DWI BAGUS SAPUTRA",
+      "nis": "NIS00000212",
+      "kelas": "XII TKRO 3",
+      "no_absen": 3
+    },
+    {
+      "id": "siswa_0213",
+      "nama": "M. FAHRI ABDUL KARIM",
+      "nis": "NIS00000213",
+      "kelas": "XII TKRO 3",
+      "no_absen": 4
+    },
+    {
+      "id": "siswa_0214",
+      "nama": "M. FANDI HIDAYATULLOH",
+      "nis": "NIS00000214",
+      "kelas": "XII TKRO 3",
+      "no_absen": 5
+    },
+    {
+      "id": "siswa_0215",
+      "nama": "M. FARHAN SEFTIO RAMADHANI",
+      "nis": "NIS00000215",
+      "kelas": "XII TKRO 3",
+      "no_absen": 6
+    },
+    {
+      "id": "siswa_0216",
+      "nama": "M. REYHAN DWI ANDIKA",
+      "nis": "NIS00000216",
+      "kelas": "XII TKRO 3",
+      "no_absen": 7
+    },
+    {
+      "id": "siswa_0217",
+      "nama": "M. RIFQI KUKUH AKBAR S",
+      "nis": "NIS00000217",
+      "kelas": "XII TKRO 3",
+      "no_absen": 8
+    },
+    {
+      "id": "siswa_0218",
+      "nama": "M. RIFQI PUGUH AKBAR S",
+      "nis": "NIS00000218",
+      "kelas": "XII TKRO 3",
+      "no_absen": 9
+    },
+    {
+      "id": "siswa_0219",
+      "nama": "MUHAMMAD AZKA PRATAMA",
+      "nis": "NIS00000219",
+      "kelas": "XII TKRO 3",
+      "no_absen": 10
+    },
+    {
+      "id": "siswa_0220",
+      "nama": "MUHAMMAD DWI ANDRIAN",
+      "nis": "NIS00000220",
+      "kelas": "XII TKRO 3",
+      "no_absen": 11
+    },
+    {
+      "id": "siswa_0221",
+      "nama": "MUHAMMAD ERDA RAMADHANI",
+      "nis": "NIS00000221",
+      "kelas": "XII TKRO 3",
+      "no_absen": 12
+    },
+    {
+      "id": "siswa_0222",
+      "nama": "NUR MUHAMAD IBRAHIM",
+      "nis": "NIS00000222",
+      "kelas": "XII TKRO 3",
+      "no_absen": 13
+    },
+    {
+      "id": "siswa_0223",
+      "nama": "PUJI SETIAWAN",
+      "nis": "NIS00000223",
+      "kelas": "XII TKRO 3",
+      "no_absen": 14
+    },
+    {
+      "id": "siswa_0224",
+      "nama": "RAHMAD ANDRIAN ARIFIN",
+      "nis": "NIS00000224",
+      "kelas": "XII TKRO 3",
+      "no_absen": 15
+    },
+    {
+      "id": "siswa_0225",
+      "nama": "RANGGA DANY SAPUTRA",
+      "nis": "NIS00000225",
+      "kelas": "XII TKRO 3",
+      "no_absen": 16
+    },
+    {
+      "id": "siswa_0226",
+      "nama": "REIVAL MEI HERMAWAN",
+      "nis": "NIS00000226",
+      "kelas": "XII TKRO 3",
+      "no_absen": 17
+    },
+    {
+      "id": "siswa_0227",
+      "nama": "RIZKI DWI SYAPUTRA",
+      "nis": "NIS00000227",
+      "kelas": "XII TKRO 3",
+      "no_absen": 18
+    },
+    {
+      "id": "siswa_0228",
+      "nama": "ROBERT THEO DWI HARIANTO",
+      "nis": "NIS00000228",
+      "kelas": "XII TKRO 3",
+      "no_absen": 19
+    },
+    {
+      "id": "siswa_0229",
+      "nama": "ROHMAD HADI SUYANTO",
+      "nis": "NIS00000229",
+      "kelas": "XII TKRO 3",
+      "no_absen": 20
+    },
+    {
+      "id": "siswa_0230",
+      "nama": "SASMITA NUGRAHA",
+      "nis": "NIS00000230",
+      "kelas": "XII TKRO 3",
+      "no_absen": 21
+    },
+    {
+      "id": "siswa_0231",
+      "nama": "VILDAYULIANTO",
+      "nis": "NIS00000231",
+      "kelas": "XII TKRO 3",
+      "no_absen": 22
+    },
+    {
+      "id": "siswa_0232",
+      "nama": "ZAKI NUZULUL AMRULLOH",
+      "nis": "NIS00000232",
+      "kelas": "XII TKRO 3",
+      "no_absen": 23
+    },
+    {
+      "id": "siswa_0233",
+      "nama": "ZIDAN AFRIAN GALIH W",
+      "nis": "NIS00000233",
+      "kelas": "XII TKRO 3",
+      "no_absen": 24
+    },
+    {
+      "id": "siswa_0234",
+      "nama": "DENIS JULIAN SAPUTRA",
+      "nis": "NIS00000234",
+      "kelas": "XII TKRO 3",
+      "no_absen": 25
+    },
+    {
+      "id": "siswa_0235",
+      "nama": "MUHAMMAD HENDRA FIRMANSYAH",
+      "nis": "NIS00000235",
+      "kelas": "XII TKRO 3",
+      "no_absen": 26
+    },
+    {
+      "id": "siswa_0236",
+      "nama": "RIYAN SUBEKTI",
+      "nis": "NIS00000236",
+      "kelas": "XII TKRO 3",
+      "no_absen": 27
+    },
+    {
+      "id": "siswa_0237",
+      "nama": "BAGUS SATRIA MAHARDIKA",
+      "nis": "NIS00000237",
+      "kelas": "XII TKRO 3",
+      "no_absen": 28
+    }
+  ]
+}

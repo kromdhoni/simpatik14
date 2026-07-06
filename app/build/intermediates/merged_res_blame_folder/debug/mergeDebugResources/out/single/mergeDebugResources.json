@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.ypm14.simpatik.app-debug-74:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.ypm14.simpatik.app-main-76:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.ypm14.simpatik.app-debug-74:/font_manrope_semibold.ttf.flat",
+        "source": "com.ypm14.simpatik.app-main-76:/font/manrope_semibold.ttf"
+    },
+    {
+        "merged": "com.ypm14.simpatik.app-debug-74:/font_manrope_regular.ttf.flat",
+        "source": "com.ypm14.simpatik.app-main-76:/font/manrope_regular.ttf"
+    },
+    {
+        "merged": "com.ypm14.simpatik.app-debug-74:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.ypm14.simpatik.app-main-76:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.ypm14.simpatik.app-debug-74:/font_manrope_bold.ttf.flat",
+        "source": "com.ypm14.simpatik.app-main-76:/font/manrope_bold.ttf"
+    },
+    {
+        "merged": "com.ypm14.simpatik.app-debug-74:/font_manrope.xml.flat",
+        "source": "com.ypm14.simpatik.app-main-76:/font/manrope.xml"
+    },
+    {
+        "merged": "com.ypm14.simpatik.app-debug-74:/font_manrope_medium.ttf.flat",
+        "source": "com.ypm14.simpatik.app-main-76:/font/manrope_medium.ttf"
+    },
+    {
+        "merged": "com.ypm14.simpatik.app-debug-74:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.ypm14.simpatik.app-main-76:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

@@ -1,0 +1,38 @@
+package com.ypm14.simpatik.ui.navigation
+
+// ✅ PRD Screen Routes — 15 screen + param variants
+object Routes {
+    const val SPLASH = "splash"
+    const val LOGIN = "login"
+    const val DASHBOARD = "dashboard"
+    const val STATISTIK = "statistik"
+    const val DAFTAR_GURU = "daftar_guru"
+    const val DETAIL_GURU = "detail_guru/{guruId}"
+    const val JADWAL = "jadwal"
+    const val JADWAL_DETAIL = "jadwal/{jadwalId}"
+    const val PRESENSI = "presensi"
+    const val DETAIL_PRESENSI = "detail_presensi/{presensiId}"
+    const val JURNAL = "jurnal/{presensiId}/{jadwalId}"
+    const val AKTIVITAS = "aktivitas"
+    const val PENGUMUMAN = "pengumuman"
+    const val KUIS = "kuis"
+    const val BUAT_KUIS = "buat_kuis"
+    const val BUAT_SOAL = "buat_soal/{kuisId}"
+    const val DETAIL_KUIS = "detail_kuis/{kuisId}"
+    const val RIWAYAT = "riwayat"
+    const val PROFIL = "profil"
+    const val NOTIFIKASI = "notifikasi"
+    const val PROFIL_SEKOLAH = "profil_sekolah"
+    const val PENGATURAN = "pengaturan"
+    const val TENTANG = "tentang"
+    const val DOKUMEN = "dokumen"
+    const val FORM_TAMBAH = "form_tambah/{formType}"
+
+    fun detailGuru(guruId: String) = "detail_guru/$guruId"
+    fun detailPresensi(presensiId: String) = "detail_presensi/$presensiId"
+    fun jurnal(presensiId: String, jadwalId: String) = "jurnal/$presensiId/$jadwalId"
+    fun detailJadwal(jadwalId: String) = "jadwal/$jadwalId"
+    fun buatSoal(kuisId: String) = "buat_soal/$kuisId"
+    fun detailKuis(kuisId: String) = "detail_kuis/$kuisId"
+    fun formTambah(formType: String) = "form_tambah/$formType"
+}

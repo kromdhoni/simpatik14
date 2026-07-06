@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F5F5F6</color>
+    <color name="bottom_nav">#0B0E13</color>
+    <color name="white">#FFFFFF</color>
+    <color name="ypm_green">#1B8E4B</color>
+    <color name="ypm_green_dark">#006564</color>
+    <color name="ypm_green_light">#279C6C</color>
+    <string name="app_name">SIMPATIK 14</string>
+    <string name="batal">Batal</string>
+    <string name="dashboard">Beranda</string>
+    <string name="email">Email</string>
+    <string name="export_excel">Export Excel</string>
+    <string name="gcm_defaultSenderId" translatable="false">39689006536</string>
+    <string name="google_api_key" translatable="false">AIzaSy...o12A</string>
+    <string name="google_app_id" translatable="false">1:39689006536:android:57ea196c77a8df6567a4fd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSy...o12A</string>
+    <string name="google_storage_bucket" translatable="false">simpatika14.firebasestorage.app</string>
+    <string name="jadwal">Jadwal</string>
+    <string name="jurnal">Jurnal</string>
+    <string name="kuis">Kuis</string>
+    <string name="login">Masuk</string>
+    <string name="logout">Keluar</string>
+    <string name="nilai">Nilai</string>
+    <string name="password">Kata Sandi</string>
+    <string name="presensi">Presensi</string>
+    <string name="profil">Profil</string>
+    <string name="project_id" translatable="false">simpatika14</string>
+    <string name="riwayat">Riwayat</string>
+    <string name="simpan">Simpan</string>
+    <style name="Theme.Simpatik14" parent="Theme.Material3.DayNight.NoActionBar"/>
+</resources>
